@@ -13,6 +13,7 @@ namespace methodpractice
             Cal c = new Cal();
             c.Add();
             Console.ReadKey();
+            //hello
         }
     }
     
