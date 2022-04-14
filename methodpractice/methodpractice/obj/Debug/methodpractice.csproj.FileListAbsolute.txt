@@ -1,0 +1,7 @@
+C:\Users\admin\source\repos\methodpractice\methodpractice\bin\Debug\methodpractice.exe.config
+C:\Users\admin\source\repos\methodpractice\methodpractice\bin\Debug\methodpractice.exe
+C:\Users\admin\source\repos\methodpractice\methodpractice\bin\Debug\methodpractice.pdb
+C:\Users\admin\source\repos\methodpractice\methodpractice\obj\Debug\methodpractice.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\methodpractice\methodpractice\obj\Debug\methodpractice.exe
+C:\Users\admin\source\repos\methodpractice\methodpractice\obj\Debug\methodpractice.pdb
+C:\Users\admin\source\repos\methodpractice\methodpractice\obj\Debug\methodpractice.csprojAssemblyReference.cache
